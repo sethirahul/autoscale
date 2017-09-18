@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+Hello World
 
 ?>
